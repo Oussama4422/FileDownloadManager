@@ -6,8 +6,8 @@ Présentation du projet : [README](../README.md) · site officiel : https://file
 
 - **Torrents** : le bouton « Fichier .torrent » (Ctrl+O) ouvre la fenêtre « Ajouter des torrents » : on y colle un
   ou plusieurs liens magnet et on y importe un ou plusieurs fichiers .torrent (aussi par glisser-déposer).
-  Chaque torrent s'ouvre ensuite dans sa propre fenêtre « Contenu du torrent » : liste des fichiers à cocher
-  (filtre, tout / rien), dossier d'enregistrement (par défaut « Torrents »), taille, espace libre, empreinte,
+  Chaque torrent s'ouvre ensuite dans sa propre fenêtre « Contenu du torrent » : arborescence des dossiers et
+  fichiers à cocher (dossiers repliables, cases à trois états, filtre, tout / rien), dossier d'enregistrement (par défaut « Torrents »), taille, espace libre, empreinte,
   morceaux, puis Télécharger, Mettre en file d'attente ou Annuler. Pour un lien magnet, la liste arrive dès que
   les pairs ont envoyé les informations du torrent. Même fenêtre pour les liens magnet du navigateur, les
   fichiers .torrent ouverts depuis Windows et ceux déposés sur l'application.
@@ -29,8 +29,10 @@ Présentation du projet : [README](../README.md) · site officiel : https://file
 - **My Video downloader** : petite icône Android dans la barre de commandes, après « Lancer la file », qui ouvre
   videodownloader.my dans le navigateur.
 - **Dons** : PayPal = adresse e-mail seule avec bouton copier (plus de lien vers une page de paiement), comme sur le site.
-- **Icône** : l'installateur demande à Windows de rafraîchir son cache d'icônes, et les notifications montrent le
-  logo de l'application.
+- **Icône des notifications** : l'application a maintenant sa propre identité Windows (`FileDownloadManager.App`), déclarée
+  avec son nom et son logo actuel. Windows gardait l'ancienne icône en cache sous un nom généré automatiquement
+  (« NotifyIconGeneratedAumid_… ») ; les raccourcis du menu Démarrer, du Bureau et de la barre des tâches reçoivent
+  la même identité pour rester regroupés avec la fenêtre.
 
 ## Nouveautés de la version 1.8.1 — arabe : noms de fichiers et adresses
 
