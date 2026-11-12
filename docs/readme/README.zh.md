@@ -12,7 +12,7 @@
   <a href="https://github.com/Oussama4422/FileDownloadManager/releases/latest"><img src="https://img.shields.io/github/v/release/Oussama4422/FileDownloadManager?style=for-the-badge&label=%20&color=2ea44f" alt="GitHub Releases"></a>
 </p>
 
-<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a> · <b>中文（简体）</b> · <a href="README.hi.md">हिन्दी</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt.md">Português</a></p>
+<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a> · <b>中文（简体）</b> · <a href="README.hi.md">हिन्दी</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt.md">Português</a> · <a href="README.he.md">עברית</a></p>
 
 <p align="center"><img src="../../docs/screenshots/main-zh.webp" alt="File Download Manager 主窗口及下载列表" width="100%"></p>
 
@@ -32,7 +32,7 @@
 - **队列与计划任务** — 将下载加入队列，设置同时下载的数量，在夜间自动开始，全部完成后让电脑睡眠或关机。
 - **网站抓取** — 保存整个网站以便离线浏览，或只收集其中链接的图片、PDF 或压缩文件。
 - **视频流转 MP4** — HLS（m3u8）视频流按片段下载，并转换为单个 MP4 文件。
-- **现代界面，支持你的语言** — 精致的 Windows 11 风格界面，支持深色模式、分类、限速和 12 种语言。
+- **现代界面，支持你的语言** — 精致的 Windows 11 风格界面，支持深色模式、分类、限速和 13 种语言。
 
 ## 为 Windows 11 而设计
 
@@ -113,7 +113,7 @@ Google Chrome、Microsoft Edge、Mozilla Firefox、Brave、Opera 和 Vivaldi。�
 <details>
 <summary><b>它和 IDM 有什么不同？</b></summary>
 
-Internet Download Manager 是付费软件。File Download Manager 免费，并额外提供可选画质的视频下载、MP3 转换、BT 下载，以及支持 12 种语言的现代 Windows 11 界面。
+Internet Download Manager 是付费软件。File Download Manager 免费，并额外提供可选画质的视频下载、MP3 转换、BT 下载，以及支持 13 种语言的现代 Windows 11 界面。
 
 </details>
 

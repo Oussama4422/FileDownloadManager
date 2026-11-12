@@ -12,7 +12,7 @@
   <a href="https://github.com/Oussama4422/FileDownloadManager/releases/latest"><img src="https://img.shields.io/github/v/release/Oussama4422/FileDownloadManager?style=for-the-badge&label=%20&color=2ea44f" alt="GitHub Releases"></a>
 </p>
 
-<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh.md">中文（简体）</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <b>Deutsch</b> · <a href="README.pt.md">Português</a></p>
+<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh.md">中文（简体）</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <b>Deutsch</b> · <a href="README.pt.md">Português</a> · <a href="README.he.md">עברית</a></p>
 
 <p align="center"><img src="../../docs/screenshots/main-de.webp" alt="Hauptfenster von File Download Manager mit der Liste der Downloads" width="100%"></p>
 
@@ -32,7 +32,7 @@ Von einer einzelnen Datei bis zur ganzen Website: File Download Manager erledigt
 - **Warteschlange und Zeitplaner** — Reihen Sie Downloads ein, legen Sie fest, wie viele gleichzeitig laufen, starten Sie die Warteschlange nachts und lassen Sie den PC danach schlafen oder herunterfahren.
 - **Website-Grabber** — Speichern Sie eine ganze Website zum Offline-Lesen oder sammeln Sie nur die verlinkten Bilder, PDFs oder Archive.
 - **Videostreams als MP4** — HLS-Streams (m3u8) werden Segment für Segment geladen und in eine einzige MP4-Datei umgewandelt.
-- **Modern und in Ihrer Sprache** — Eine klare Windows-11-Oberfläche mit Dunkelmodus, Kategorien, Geschwindigkeitsbegrenzung und 12 Sprachen.
+- **Modern und in Ihrer Sprache** — Eine klare Windows-11-Oberfläche mit Dunkelmodus, Kategorien, Geschwindigkeitsbegrenzung und 13 Sprachen.
 
 ## Für Windows 11 gestaltet
 
@@ -113,7 +113,7 @@ Das Installationsprogramm ist neu und Microsoft SmartScreen noch nicht bekannt, 
 <details>
 <summary><b>Was ist der Unterschied zu IDM?</b></summary>
 
-Internet Download Manager ist kostenpflichtig. File Download Manager ist kostenlos und bietet außerdem Video-Downloads mit Qualitätswahl, MP3-Umwandlung, Torrents und eine moderne Windows-11-Oberfläche in 12 Sprachen.
+Internet Download Manager ist kostenpflichtig. File Download Manager ist kostenlos und bietet außerdem Video-Downloads mit Qualitätswahl, MP3-Umwandlung, Torrents und eine moderne Windows-11-Oberfläche in 13 Sprachen.
 
 </details>
 

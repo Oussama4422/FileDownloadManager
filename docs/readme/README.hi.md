@@ -12,7 +12,7 @@
   <a href="https://github.com/Oussama4422/FileDownloadManager/releases/latest"><img src="https://img.shields.io/github/v/release/Oussama4422/FileDownloadManager?style=for-the-badge&label=%20&color=2ea44f" alt="GitHub Releases"></a>
 </p>
 
-<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh.md">中文（简体）</a> · <b>हिन्दी</b> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt.md">Português</a></p>
+<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh.md">中文（简体）</a> · <b>हिन्दी</b> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt.md">Português</a> · <a href="README.he.md">עברית</a></p>
 
 <p align="center"><img src="../../docs/screenshots/main-hi.webp" alt="डाउनलोड सूची के साथ File Download Manager की मुख्य विंडो" width="100%"></p>
 
@@ -32,7 +32,7 @@
 - **कतार और शेड्यूलर** — डाउनलोड कतार में लगाएँ, तय करें कि एक साथ कितने चलें, रात में कतार शुरू करें और काम पूरा होने पर PC को स्लीप या बंद होने दें।
 - **वेबसाइट ग्रैबर** — पूरी वेबसाइट ऑफ़लाइन पढ़ने के लिए सहेजें, या सिर्फ़ उसमें जुड़ी तस्वीरें, PDF या आर्काइव इकट्ठा करें।
 - **वीडियो स्ट्रीम से MP4** — HLS (m3u8) स्ट्रीम सेगमेंट-दर-सेगमेंट डाउनलोड होकर एक MP4 फ़ाइल में बदल जाती हैं।
-- **आधुनिक और आपकी भाषा में** — डार्क मोड, श्रेणियों, स्पीड लिमिटर और 12 भाषाओं के साथ साफ़-सुथरा Windows 11 इंटरफ़ेस।
+- **आधुनिक और आपकी भाषा में** — डार्क मोड, श्रेणियों, स्पीड लिमिटर और 13 भाषाओं के साथ साफ़-सुथरा Windows 11 इंटरफ़ेस।
 
 ## Windows 11 के लिए बना
 
@@ -113,7 +113,7 @@ Google Chrome, Microsoft Edge, Mozilla Firefox, Brave, Opera और Vivaldi। �
 <details>
 <summary><b>यह IDM से कैसे अलग है?</b></summary>
 
-Internet Download Manager एक पेड सॉफ़्टवेयर है। File Download Manager फ्री है और साथ में गुणवत्ता चुनकर वीडियो डाउनलोड, MP3 कन्वर्ज़न, टोरेंट और 12 भाषाओं वाला आधुनिक Windows 11 इंटरफ़ेस भी देता है।
+Internet Download Manager एक पेड सॉफ़्टवेयर है। File Download Manager फ्री है और साथ में गुणवत्ता चुनकर वीडियो डाउनलोड, MP3 कन्वर्ज़न, टोरेंट और 13 भाषाओं वाला आधुनिक Windows 11 इंटरफ़ेस भी देता है।
 
 </details>
 

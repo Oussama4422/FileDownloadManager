@@ -12,7 +12,7 @@
   <a href="https://github.com/Oussama4422/FileDownloadManager/releases/latest"><img src="https://img.shields.io/github/v/release/Oussama4422/FileDownloadManager?style=for-the-badge&label=%20&color=2ea44f" alt="GitHub Releases"></a>
 </p>
 
-<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh.md">中文（简体）</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.de.md">Deutsch</a> · <b>Português</b></p>
+<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh.md">中文（简体）</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.de.md">Deutsch</a> · <b>Português</b> · <a href="README.he.md">עברית</a></p>
 
 <p align="center"><img src="../../docs/screenshots/main-pt.webp" alt="Janela principal do File Download Manager com a lista de downloads" width="100%"></p>
 
@@ -32,7 +32,7 @@ De um único arquivo a um site inteiro, o File Download Manager dá conta — se
 - **Fila e agendador** — Coloque downloads na fila, escolha quantos rodam ao mesmo tempo, inicie a fila à noite e deixe o PC suspender ou desligar quando tudo terminar.
 - **Capturador de sites** — Salve um site inteiro para ler offline, ou junte só as imagens, PDFs ou arquivos compactados para os quais ele aponta.
 - **Streams de vídeo em MP4** — Os streams HLS (m3u8) são baixados segmento por segmento e convertidos em um único arquivo MP4.
-- **Moderno e no seu idioma** — Uma interface limpa do Windows 11 com modo escuro, categorias, limitador de velocidade e 12 idiomas.
+- **Moderno e no seu idioma** — Uma interface limpa do Windows 11 com modo escuro, categorias, limitador de velocidade e 13 idiomas.
 
 ## Feito para o Windows 11
 
@@ -113,7 +113,7 @@ O instalador é novo e ainda não é conhecido pelo Microsoft SmartScreen, entã
 <details>
 <summary><b>Qual é a diferença para o IDM?</b></summary>
 
-O Internet Download Manager é um programa pago. O File Download Manager é grátis e também traz download de vídeos com escolha de qualidade, conversão para MP3, torrents e uma interface moderna do Windows 11 em 12 idiomas.
+O Internet Download Manager é um programa pago. O File Download Manager é grátis e também traz download de vídeos com escolha de qualidade, conversão para MP3, torrents e uma interface moderna do Windows 11 em 13 idiomas.
 
 </details>
 

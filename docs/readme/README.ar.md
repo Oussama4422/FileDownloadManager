@@ -14,7 +14,7 @@
   <a href="https://github.com/Oussama4422/FileDownloadManager/releases/latest"><img src="https://img.shields.io/github/v/release/Oussama4422/FileDownloadManager?style=for-the-badge&label=%20&color=2ea44f" alt="GitHub Releases"></a>
 </p>
 
-<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <b>العربية</b> · <a href="README.ru.md">Русский</a> · <a href="README.zh.md">中文（简体）</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt.md">Português</a></p>
+<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <b>العربية</b> · <a href="README.ru.md">Русский</a> · <a href="README.zh.md">中文（简体）</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt.md">Português</a> · <a href="README.he.md">עברית</a></p>
 
 <p align="center"><img src="../../docs/screenshots/main-ar.webp" alt="النافذة الرئيسية لبرنامج File Download Manager مع قائمة التحميلات" width="100%"></p>
 
@@ -34,7 +34,7 @@
 - **قائمة الانتظار والجدولة** — رتّب تحميلاتك، واختر عدد ما يعمل منها في وقت واحد، وابدأ القائمة ليلًا، ودع الحاسوب ينام أو يُطفأ عند الانتهاء.
 - **تحميل المواقع** — احفظ موقعًا كاملًا لتصفّحه دون اتصال، أو اجمع فقط الصور أو ملفات PDF أو الملفات المضغوطة المرتبطة به.
 - **البث المباشر إلى MP4** — يُحمَّل بث HLS (m3u8) مقطعًا بعد مقطع ثم يُحوَّل إلى ملف MP4 واحد.
-- **حديث وبلغتك** — واجهة ويندوز 11 أنيقة مع الوضع الداكن والفئات ومحدِّد السرعة و12 لغة.
+- **حديث وبلغتك** — واجهة ويندوز 11 أنيقة مع الوضع الداكن والفئات ومحدِّد السرعة و13 لغة.
 
 ## مصمَّم لويندوز 11
 
@@ -115,7 +115,7 @@ Google Chrome وMicrosoft Edge وMozilla Firefox وBrave وOpera وVivaldi. يو
 <details>
 <summary><b>ما الفرق بينه وبين IDM؟</b></summary>
 
-Internet Download Manager برنامج مدفوع. أما File Download Manager فمجاني ويضيف تحميل الفيديوهات مع اختيار الجودة، والتحويل إلى MP3، والتورنت، وواجهة ويندوز 11 حديثة بـ12 لغة.
+Internet Download Manager برنامج مدفوع. أما File Download Manager فمجاني ويضيف تحميل الفيديوهات مع اختيار الجودة، والتحويل إلى MP3، والتورنت، وواجهة ويندوز 11 حديثة بـ13 لغة.
 
 </details>
 

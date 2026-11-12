@@ -12,7 +12,7 @@
   <a href="https://github.com/Oussama4422/FileDownloadManager/releases/latest"><img src="https://img.shields.io/github/v/release/Oussama4422/FileDownloadManager?style=for-the-badge&label=%20&color=2ea44f" alt="GitHub Releases"></a>
 </p>
 
-<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <b>Русский</b> · <a href="README.zh.md">中文（简体）</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt.md">Português</a></p>
+<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <b>Русский</b> · <a href="README.zh.md">中文（简体）</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt.md">Português</a> · <a href="README.he.md">עברית</a></p>
 
 <p align="center"><img src="../../docs/screenshots/main-ru.webp" alt="Главное окно File Download Manager со списком загрузок" width="100%"></p>
 
@@ -32,7 +32,7 @@
 - **Очередь и планировщик** — Ставьте загрузки в очередь, выбирайте, сколько качать одновременно, запускайте очередь ночью — ПК уснёт или выключится, когда всё будет готово.
 - **Загрузка сайтов** — Сохраните сайт целиком для чтения офлайн или соберите только картинки, PDF и архивы, на которые он ссылается.
 - **Видеопотоки в MP4** — Потоки HLS (m3u8) скачиваются по сегментам и собираются в один файл MP4.
-- **Современный и на вашем языке** — Аккуратный интерфейс в стиле Windows 11: тёмная тема, категории, ограничение скорости и 12 языков.
+- **Современный и на вашем языке** — Аккуратный интерфейс в стиле Windows 11: тёмная тема, категории, ограничение скорости и 13 языков.
 
 ## Создан для Windows 11
 
@@ -113,7 +113,7 @@ Google Chrome, Microsoft Edge, Mozilla Firefox, Brave, Opera и Vivaldi. Инс�
 <details>
 <summary><b>Чем он отличается от IDM?</b></summary>
 
-Internet Download Manager — платная программа. File Download Manager бесплатен и вдобавок умеет скачивать видео с выбором качества, конвертировать в MP3, качать торренты и имеет современный интерфейс Windows 11 на 12 языках.
+Internet Download Manager — платная программа. File Download Manager бесплатен и вдобавок умеет скачивать видео с выбором качества, конвертировать в MP3, качать торренты и имеет современный интерфейс Windows 11 на 13 языках.
 
 </details>
 

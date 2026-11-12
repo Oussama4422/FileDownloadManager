@@ -12,7 +12,7 @@
   <a href="https://github.com/Oussama4422/FileDownloadManager/releases/latest"><img src="https://img.shields.io/github/v/release/Oussama4422/FileDownloadManager?style=for-the-badge&label=%20&color=2ea44f" alt="GitHub Releases"></a>
 </p>
 
-<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh.md">中文（简体）</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.ja.md">日本語</a> · <b>한국어</b> · <a href="README.de.md">Deutsch</a> · <a href="README.pt.md">Português</a></p>
+<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh.md">中文（简体）</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.ja.md">日本語</a> · <b>한국어</b> · <a href="README.de.md">Deutsch</a> · <a href="README.pt.md">Português</a> · <a href="README.he.md">עברית</a></p>
 
 <p align="center"><img src="../../docs/screenshots/main-ko.webp" alt="다운로드 목록이 표시된 File Download Manager 기본 창" width="100%"></p>
 
@@ -32,7 +32,7 @@
 - **대기열과 예약** — 다운로드를 대기열에 넣고, 동시에 받을 개수를 정하고, 밤에 대기열을 시작한 뒤 모두 끝나면 PC를 절전 또는 종료할 수 있습니다.
 - **웹사이트 수집기** — 웹사이트 전체를 저장해 오프라인으로 보거나, 연결된 이미지, PDF, 압축 파일만 모을 수 있습니다.
 - **동영상 스트림을 MP4로** — HLS(m3u8) 스트림을 세그먼트 단위로 받아 하나의 MP4 파일로 변환합니다.
-- **현대적이고 내 언어로** — 다크 모드, 범주, 속도 제한, 12개 언어를 지원하는 깔끔한 윈도우 11 스타일 인터페이스.
+- **현대적이고 내 언어로** — 다크 모드, 범주, 속도 제한, 13개 언어를 지원하는 깔끔한 윈도우 11 스타일 인터페이스.
 
 ## 윈도우 11을 위해 디자인
 
@@ -113,7 +113,7 @@ Google Chrome, Microsoft Edge, Mozilla Firefox, Brave, Opera, Vivaldi입니다. 
 <details>
 <summary><b>IDM과 무엇이 다른가요?</b></summary>
 
-Internet Download Manager는 유료 프로그램입니다. File Download Manager는 무료이며 화질을 고르는 동영상 다운로드, MP3 변환, 토렌트, 12개 언어를 지원하는 현대적인 윈도우 11 인터페이스까지 제공합니다.
+Internet Download Manager는 유료 프로그램입니다. File Download Manager는 무료이며 화질을 고르는 동영상 다운로드, MP3 변환, 토렌트, 13개 언어를 지원하는 현대적인 윈도우 11 인터페이스까지 제공합니다.
 
 </details>
 

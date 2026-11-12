@@ -12,7 +12,7 @@
   <a href="https://github.com/Oussama4422/FileDownloadManager/releases/latest"><img src="https://img.shields.io/github/v/release/Oussama4422/FileDownloadManager?style=for-the-badge&label=%20&color=2ea44f" alt="GitHub Releases"></a>
 </p>
 
-<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh.md">中文（简体）</a> · <a href="README.hi.md">हिन्दी</a> · <b>日本語</b> · <a href="README.ko.md">한국어</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt.md">Português</a></p>
+<p align="center"><a href="../../README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh.md">中文（简体）</a> · <a href="README.hi.md">हिन्दी</a> · <b>日本語</b> · <a href="README.ko.md">한국어</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt.md">Português</a> · <a href="README.he.md">עברית</a></p>
 
 <p align="center"><img src="../../docs/screenshots/main-ja.webp" alt="ダウンロード一覧が表示された File Download Manager のメインウィンドウ" width="100%"></p>
 
@@ -32,7 +32,7 @@
 - **キューとスケジューラー** — ダウンロードを並べ、同時実行数を選び、夜間にキューを開始。すべて終わったらPCをスリープまたはシャットダウンできます。
 - **サイト取り込み** — サイト全体を保存してオフラインで閲覧したり、リンクされた画像・PDF・圧縮ファイルだけを集めたりできます。
 - **動画ストリームをMP4に** — HLS（m3u8）ストリームをセグメントごとにダウンロードし、1つのMP4ファイルに変換します。
-- **モダンで、あなたの言語で** — ダークモード、カテゴリ、速度制限、12言語に対応した洗練された Windows 11 スタイルのインターフェース。
+- **モダンで、あなたの言語で** — ダークモード、カテゴリ、速度制限、13言語に対応した洗練された Windows 11 スタイルのインターフェース。
 
 ## Windows 11 のためのデザイン
 
@@ -113,7 +113,7 @@ Google Chrome、Microsoft Edge、Mozilla Firefox、Brave、Opera、Vivaldi で�
 <details>
 <summary><b>IDM との違いは？</b></summary>
 
-Internet Download Manager は有料ソフトです。File Download Manager は無料で、画質を選べる動画ダウンロード、MP3変換、トレント、12言語対応のモダンな Windows 11 インターフェースも備えています。
+Internet Download Manager は有料ソフトです。File Download Manager は無料で、画質を選べる動画ダウンロード、MP3変換、トレント、13言語対応のモダンな Windows 11 インターフェースも備えています。
 
 </details>
 

@@ -2,6 +2,36 @@
 
 Présentation du projet : [README](../README.md) · site officiel : https://filedownloadmanager.com
 
+## Nouveautés de la version 1.9.0 — torrents à la carte, hébreu, moteurs à jour
+
+- **Torrents** : le bouton « Fichier .torrent » (Ctrl+O) ouvre la fenêtre « Ajouter des torrents » : on y colle un
+  ou plusieurs liens magnet et on y importe un ou plusieurs fichiers .torrent (aussi par glisser-déposer).
+  Chaque torrent s'ouvre ensuite dans sa propre fenêtre « Contenu du torrent » : liste des fichiers à cocher
+  (filtre, tout / rien), dossier d'enregistrement (par défaut « Torrents »), taille, espace libre, empreinte,
+  morceaux, puis Télécharger, Mettre en file d'attente ou Annuler. Pour un lien magnet, la liste arrive dès que
+  les pairs ont envoyé les informations du torrent. Même fenêtre pour les liens magnet du navigateur, les
+  fichiers .torrent ouverts depuis Windows et ceux déposés sur l'application.
+- **Gros torrents** : un téléchargement de plusieurs dizaines de Go ne s'arrête plus au début avec l'erreur
+  « HttpClient.Timeout of 20 seconds » : Windows prépare désormais le fichier instantanément (fichier « creux »).
+- **Fenêtre d'informations avant chaque téléchargement** (bouton « Ajouter », clic sur un lien ou une vidéo dans
+  le navigateur) : nom, taille, type, reprise possible et adresse du fichier, lus avant de télécharger ; dossier
+  de sa catégorie par défaut (Vidéos, Musique, Programmes…) ; Télécharger, Mettre en file d'attente ou Annuler.
+  Réglage « Afficher la fenêtre d'informations avant chaque téléchargement » (Paramètres → Navigateur). La
+  fenêtre « Ajouter » ne gère plus les torrents : un lien magnet collé part dans la fenêtre des torrents.
+- **Moteurs de téléchargement et de conversion** (Paramètres) : version installée de yt-dlp, ffmpeg, deno et
+  aria2, recherche des mises à jour sur leurs pages GitHub officielles, mise à jour en un clic, et mise à jour
+  automatique une fois par jour (activée par défaut).
+- **Bouton vidéo du navigateur** redessiné : bouton « Choisir la qualité » sur la vidéo, menu sombre en deux colonnes
+  « Options vidéo » (8K, 4K, 2K, 1080p… avec images/s et taille) et « Options audio » (MP3 320 à 96 kb/s).
+- **Qualité 8K** : les vidéos en 4320p sont proposées comme « 4320p [8K] » (application et navigateur).
+- **Hébreu** dans l'application, l'installateur et l'extension (13 langues, de droite à gauche comme l'arabe) ;
+  le site reprend désormais ses textes hébreux de l'application.
+- **My Video downloader** : petite icône Android dans la barre de commandes, après « Lancer la file », qui ouvre
+  videodownloader.my dans le navigateur.
+- **Dons** : PayPal = adresse e-mail seule avec bouton copier (plus de lien vers une page de paiement), comme sur le site.
+- **Icône** : l'installateur demande à Windows de rafraîchir son cache d'icônes, et les notifications montrent le
+  logo de l'application.
+
 ## Nouveautés de la version 1.8.1 — arabe : noms de fichiers et adresses
 
 - **Arabe** : les noms de fichiers, adresses et chemins s'affichent dans le bon ordre

@@ -12,7 +12,7 @@
   <a href="https://github.com/Oussama4422/FileDownloadManager/releases/latest"><img src="https://img.shields.io/github/v/release/Oussama4422/FileDownloadManager?style=for-the-badge&label=%20&color=2ea44f" alt="GitHub Releases"></a>
 </p>
 
-<p align="center"><b>English</b> · <a href="docs/readme/README.fr.md">Français</a> · <a href="docs/readme/README.es.md">Español</a> · <a href="docs/readme/README.it.md">Italiano</a> · <a href="docs/readme/README.ar.md">العربية</a> · <a href="docs/readme/README.ru.md">Русский</a> · <a href="docs/readme/README.zh.md">中文（简体）</a> · <a href="docs/readme/README.hi.md">हिन्दी</a> · <a href="docs/readme/README.ja.md">日本語</a> · <a href="docs/readme/README.ko.md">한국어</a> · <a href="docs/readme/README.de.md">Deutsch</a> · <a href="docs/readme/README.pt.md">Português</a></p>
+<p align="center"><b>English</b> · <a href="docs/readme/README.fr.md">Français</a> · <a href="docs/readme/README.es.md">Español</a> · <a href="docs/readme/README.it.md">Italiano</a> · <a href="docs/readme/README.ar.md">العربية</a> · <a href="docs/readme/README.ru.md">Русский</a> · <a href="docs/readme/README.zh.md">中文（简体）</a> · <a href="docs/readme/README.hi.md">हिन्दी</a> · <a href="docs/readme/README.ja.md">日本語</a> · <a href="docs/readme/README.ko.md">한국어</a> · <a href="docs/readme/README.de.md">Deutsch</a> · <a href="docs/readme/README.pt.md">Português</a> · <a href="docs/readme/README.he.md">עברית</a></p>
 
 <p align="center"><img src="docs/screenshots/main-en.webp" alt="File Download Manager main window with the list of downloads" width="100%"></p>
 
@@ -32,7 +32,7 @@ From a single file to a whole website, File Download Manager handles it — and 
 - **Queue and scheduler** — Line up downloads, choose how many run at once, start the queue at night and let the PC sleep or shut down when everything is done.
 - **Website grabber** — Save a whole website for offline reading, or collect only the images, PDFs or archives it links to.
 - **Video streams to MP4** — HLS streams (m3u8) are downloaded segment by segment and converted into a single MP4 file.
-- **Modern and in your language** — A clean Windows 11 interface with dark mode, categories, speed limiter and 12 languages.
+- **Modern and in your language** — A clean Windows 11 interface with dark mode, categories, speed limiter and 13 languages.
 
 ## Designed for Windows 11
 
@@ -113,7 +113,7 @@ The installer is new and not yet known to Microsoft SmartScreen, so Windows may 
 <details>
 <summary><b>How is it different from IDM?</b></summary>
 
-Internet Download Manager is paid software. File Download Manager is free and also includes video downloads with quality choice, MP3 conversion, torrents and a modern Windows 11 interface in 12 languages.
+Internet Download Manager is paid software. File Download Manager is free and also includes video downloads with quality choice, MP3 conversion, torrents and a modern Windows 11 interface in 13 languages.
 
 </details>
 
